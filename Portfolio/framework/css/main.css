@@ -9,6 +9,11 @@
 	box-sizing: border-box; 
 }
 
+@media only screen and (max-width: 300px){
+	p{
+		background-color: blue;
+	}
+}
 
 
 .row {
